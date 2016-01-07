@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "fortest",
+    "style": "sass",
+    "postcss": false
+  }
+}

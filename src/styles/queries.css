@@ -1,0 +1,40 @@
+    .ff{
+        width:600px;
+        margin:0 auto;
+        
+    }
+/* For mobile:like samsung grand(480 * 800): */
+@media screen and (max-width:480px) {
+    .get-started-btn { padding: 20px 50px; }
+  
+    .ff{
+        width:150px;
+        margin:0 auto;
+    }
+
+}
+/* For iphone: */
+@media screen and (max-width:320px) {
+    .ff{
+        width:150px;
+        margin:0 auto;
+    }
+
+}
+/* For ipad: */
+@media screen and (max-width:760px) {
+        .ff{
+        width:250px;
+        margin:0 auto;
+    }
+
+}
+@media screen and (max-width:991px) {
+	.download-now { background: #fff; background-image: none; }
+	.features-leftcol { border: none; padding: 0 0 0 20px; }
+	.features-rightcol { padding: 0 0 0 20px; }
+	.margin-bottom { margin-bottom: 0; }
+	.features p { margin-bottom: 50px; }
+
+}
+
